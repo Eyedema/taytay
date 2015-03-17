@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 telegram-bot
 ============
 
@@ -224,3 +225,6 @@ $ sudo stop telegram # To stop it
 Contact me
 ------------
 You can contact me [via Telegram](https://telegram.me/yago_perez) but if you have an issue please [open](https://github.com/yagop/telegram-bot/issues) one.
+=======
+# taytay
+>>>>>>> 44f79aa711a3f5d8209e7519211de9ffb97003ed

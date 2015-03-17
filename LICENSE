@@ -291,7 +291,11 @@ convey the exclusion of warranty; and each file should have at least
 the "copyright" line and a pointer to where the full notice is found.
 
     {description}
+<<<<<<< HEAD
     Copyright (C) 2015  Yago Pérez
+=======
+    Copyright (C) {year}  {fullname}
+>>>>>>> 44f79aa711a3f5d8209e7519211de9ffb97003ed
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -337,3 +341,7 @@ proprietary programs.  If your program is a subroutine library, you may
 consider it more useful to permit linking proprietary applications with the
 library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.
+<<<<<<< HEAD
+=======
+
+>>>>>>> 44f79aa711a3f5d8209e7519211de9ffb97003ed
