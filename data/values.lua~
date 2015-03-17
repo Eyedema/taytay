@@ -1,0 +1,17 @@
+do local _ = {
+  ["3754050"] = {
+    "[taytay] "..Argenti = "Lamarunica",
+    "[taytay] "..HappyRAM = "= space",
+    "[taytay] "..Marinai = "Coglione",
+    "[taytay] "..UbaTunzTunz = "!img Ubaldo Puocci",
+    "[taytay] "..infame = "= Gigi",
+    "[taytay] "..ramsGonnaBurn = "= lol",
+    "[taytay] "..recursion = "= recursion",
+    "[taytay] "..satan = "teemo"
+  },
+  ["19169662"] = {
+    teemo = "= satana"
+  }
+}
+return _
+end

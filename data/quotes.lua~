@@ -1,0 +1,11 @@
+do local _ = {
+  ["3754050"] = {
+    "[taytay] ".."che si fa venerdì? chi ci sarebbe?"
+  },
+  ["19169662"] = {
+   "[taytay] ".. "GIGIDIOPORCO",
+    "2"
+  }
+}
+return _
+end

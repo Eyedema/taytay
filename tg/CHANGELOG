@@ -1,0 +1,23 @@
+current
+* fixed registration/login problem
+* added extension to downloads
+1.2.0
+* layer 22 support
+* new authorization code
+* fixed time-related problems
+* fixed crash after hibernation
+1.0.6
+* layer 18 support
+1.0.5
+* listening socket (tcp and unix) for commands
+1.0.4
+* changed create_group_chat format
+* changed search query
+* rewritten interface code. Support for escaped characters in quotes
+1.0.3
+* options to help to run telegram-cli as daemon
+1.0.2
+* Bug fixes
+1.0.1
+* Added pfs support. To use it you should add 'pfs_enabled=true' line to config.
+* Added export_card/import_card methods
