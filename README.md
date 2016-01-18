@@ -22,7 +22,7 @@ $ sudo luarocks install luasocket
 ```bash
 # After those dependencies, lets install the bot
 $ cd $HOME
-$ git clone https://github.com/yagop/telegram-bot.git --recursive
+$ git clone https://github.com/Eyedema/taytay --recursive
 $ cd telegram-bot/tg
 $ ./configure && make && cd ..
 $ ./launch.sh # Will ask you for a phone number & confirmation code.
